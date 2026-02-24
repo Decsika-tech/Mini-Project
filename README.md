@@ -1,4 +1,4 @@
-# Mini-Project
+Aim: Module-Terraform
 
 modulesproject/
 │── main.tf
